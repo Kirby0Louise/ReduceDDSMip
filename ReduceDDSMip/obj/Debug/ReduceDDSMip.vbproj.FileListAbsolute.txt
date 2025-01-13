@@ -1,0 +1,11 @@
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\bin\Debug\ReduceDDSMip.exe.config
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\bin\Debug\ReduceDDSMip.exe
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\bin\Debug\ReduceDDSMip.pdb
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\bin\Debug\ReduceDDSMip.xml
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.vbprojAssemblyReference.cache
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.Resources.resources
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.vbproj.GenerateResource.cache
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.vbproj.CoreCompileInputs.cache
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.exe
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.xml
+C:\Users\darkm\source\repos\ReduceDDSMip\ReduceDDSMip\obj\Debug\ReduceDDSMip.pdb
